@@ -1,0 +1,4 @@
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.AssemblyInfoInputs.cache
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.AssemblyInfo.cs
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.csproj.CoreCompileInputs.cache

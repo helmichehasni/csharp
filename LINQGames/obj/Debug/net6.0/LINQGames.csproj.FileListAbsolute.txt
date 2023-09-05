@@ -1,0 +1,14 @@
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\bin\Debug\net6.0\LINQGames.exe
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\bin\Debug\net6.0\LINQGames.deps.json
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\bin\Debug\net6.0\LINQGames.runtimeconfig.json
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\bin\Debug\net6.0\LINQGames.dll
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\bin\Debug\net6.0\LINQGames.pdb
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\LINQGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\LINQGames.AssemblyInfoInputs.cache
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\LINQGames.AssemblyInfo.cs
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\LINQGames.csproj.CoreCompileInputs.cache
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\LINQGames.dll
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\refint\LINQGames.dll
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\LINQGames.pdb
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\LINQGames.genruntimeconfig.cache
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\LINQGames\obj\Debug\net6.0\ref\LINQGames.dll

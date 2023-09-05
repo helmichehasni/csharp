@@ -1,0 +1,4 @@
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\Searcher\obj\Debug\net6.0\Searcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\Searcher\obj\Debug\net6.0\Searcher.AssemblyInfoInputs.cache
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\Searcher\obj\Debug\net6.0\Searcher.AssemblyInfo.cs
+C:\Users\helmi.che.hasni\source\repos\Training\Excercises\StudentAdvising\Searcher\obj\Debug\net6.0\Searcher.csproj.CoreCompileInputs.cache
